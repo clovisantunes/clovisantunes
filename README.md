@@ -1,3 +1,3 @@
 ## Oi! Sou clovis Antunes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisantunes&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clovisantunes&show_icons=true&theme=tokyonight)
