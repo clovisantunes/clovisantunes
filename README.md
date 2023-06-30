@@ -8,6 +8,8 @@
   <img align="center" alt="Clovis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Clovis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Clovis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Clovis-CSS" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg#/media/File:Typescript_logo_2020.svg">
+
 
 </div>
 
