@@ -9,7 +9,7 @@
   <img align="center" alt="Clovis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Clovis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Clovis-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
-    <img align="center" alt="Clovis-CSS" height="30" width="40" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg">
+    <img align="center" alt="Clovis-CSS" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png">
 
 
 </div>
