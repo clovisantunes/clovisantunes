@@ -2,10 +2,8 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "*/12 * * *"
-
-workflow_dispatch:
-
+  - cron: "* */12 * * *"
+  workflow_dispatch:
 jobs:
   build:
     name: Jobs to update datas
