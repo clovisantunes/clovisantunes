@@ -13,7 +13,7 @@ jobs:
         uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: DevBatista1
+          github_user_name: clovisantunes
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Publish to GitHub Pages
