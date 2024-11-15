@@ -39,7 +39,7 @@ I'm always learning new tools, libraries, and frameworks to enhance my skills. A
 
 ### 📊 My GitHub Stats
 
-![Clovis's Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=clovisantunes)
+![Clovis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovisantunes&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 ---
 
