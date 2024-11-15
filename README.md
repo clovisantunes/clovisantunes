@@ -39,7 +39,7 @@ I'm always learning new tools, libraries, and frameworks to enhance my skills. A
 
 ### 📊 My GitHub Stats
 
-![Clovis's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=clovisantunes&theme=github)
+![Clovis's Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=clovisantunes)
 
 ---
 
