@@ -37,19 +37,12 @@ I'm always learning new tools, libraries, and frameworks to enhance my skills. A
 
 ---
 
-### 📊 My GitHub Stats
-
-![Clovis's Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=clovisantunes)
-
----
-
 ### 💼 My Projects
 
 Check out some of my projects where I apply my skills to create solutions:
 
-- [DevRoom](https://github.com/clovisantunes/devroom): A web development portfolio for showcasing my freelance services.
-- [My Portfolio](https://github.com/clovisantunes/portfolio): A personal portfolio built with Next.js and styled with Sass.
-- [Tech Blog](https://github.com/clovisantunes/tech-blog): A blog platform built with React, Node.js, and MongoDB.
+- [DevRoom]([https://github.com/clovisantunes/devroom](https://devroom.tech/)): A web development portfolio for showcasing my freelance services.
+- [My Portfolio]([https://github.com/clovisantunes/portfolio](https://github.com/clovisantunes/portifolio_Next.js)): A personal portfolio built with Next.js and styled with Sass.
 
 Feel free to explore my repositories and give them a star if you find them interesting!
 
