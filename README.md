@@ -37,6 +37,12 @@ I'm always learning new tools, libraries, and frameworks to enhance my skills. A
 
 ---
 
+### 📊 My GitHub Stats
+
+![Clovis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovisantunes&show_icons=true&hide=prs&count_private=true&theme=radical)
+
+---
+
 ### 💼 My Projects
 
 Check out some of my projects where I apply my skills to create solutions:
@@ -48,7 +54,4 @@ Feel free to explore my repositories and give them a star if you find them inter
 
 ---
 
-### 📈 My Contribution Activity
-
-![Clovis's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=clovisantunes&theme=github)
 
