@@ -9,7 +9,7 @@ I'm a Full Stack Developer with a passion for creating dynamic, responsive, and 
 ### 🚀 Technologies & Tools I Work With
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks**: React.js, Next.js, Node.js, React.Native
+- **Frameworks**: React.js, Next.js, Node.js, React.Native, Nest.js
 - **Databases**: MongoDB, PostgreSQL, Firebase
 - **Tools & Libraries**: Git, Webpack, Babel, Redux, Sass, Bootstrap, Styled components
 
